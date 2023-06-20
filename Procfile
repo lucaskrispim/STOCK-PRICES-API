@@ -1,0 +1,1 @@
+web: gunicorn dividends_backend.wsgi --log-file -
